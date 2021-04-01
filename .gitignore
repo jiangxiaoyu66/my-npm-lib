@@ -1,0 +1,10 @@
+# 依赖
+node_modules
+
+# 打包
+build
+
+# 日志
+package-lock.json
+yarn-error.log
+yarn.lock
